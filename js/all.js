@@ -1,0 +1,1 @@
+!function(){console.log("123456777788888")}(),function(){console.log("6666666622")}();
